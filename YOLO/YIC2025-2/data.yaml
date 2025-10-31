@@ -1,0 +1,12 @@
+train: C:\Users\zanyi\Documents\GitHub\YIC2025\YOLO\YIC2025-2\train
+val: C:\Users\zanyi\Documents\GitHub\YIC2025\YOLO\YIC2025-2\valid
+
+nc: 2
+names: ['alexandrium minutum', 'psudo-nitzschia']
+
+roboflow:
+  workspace: testing2-wvkeh
+  project: yic2025-b9ui2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testing2-wvkeh/yic2025-b9ui2/dataset/2

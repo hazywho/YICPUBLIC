@@ -1,0 +1,13 @@
+train: C:\Users\zanyi\Documents\GitHub\YIC2025\YOLO\YIC2024-2\train
+val: C:\Users\zanyi\Documents\GitHub\YIC2025\YOLO\YIC2024-2\valid
+test: C:\Users\zanyi\Documents\GitHub\YIC2025\YOLO\YIC2024-2\test
+
+nc: 3
+names: ['alexandrium', 'alexandrium minutum', 'psudo-nitzschia']
+
+roboflow:
+  workspace: testing2-wvkeh
+  project: yic2024-9nhzj
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testing2-wvkeh/yic2024-9nhzj/dataset/2
